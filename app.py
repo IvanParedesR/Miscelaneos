@@ -1,4 +1,3 @@
-pip install sympy
 import streamlit as st
 import random
 import sympy
