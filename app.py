@@ -1,5 +1,6 @@
 import streamlit as st
 import random
+import sympy
 from sympy import symbols, diff, sympify
 
 # Lista de 100 funciones que un estudiante debería saber derivar
